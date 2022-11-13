@@ -37,6 +37,11 @@ nav ul {
     text-align: center;
 }
 
+.undotted {
+    list-style-type: none;
+    text-align: center;
+}
+
 nav li {
     display: inline;
 }
